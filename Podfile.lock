@@ -1,0 +1,24 @@
+PODS:
+  - Decodable (0.6.0)
+  - Kingfisher (7.2.4)
+  - ProgressHUD (13.6)
+
+DEPENDENCIES:
+  - Decodable
+  - Kingfisher
+  - ProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Decodable
+    - Kingfisher
+    - ProgressHUD
+
+SPEC CHECKSUMS:
+  Decodable: f0b95fa2fcf8633dd097aa8f7f09838ab3524f5d
+  Kingfisher: 2457be2121734e69e54a2312ecc0150eb9ae70b3
+  ProgressHUD: 4bdaa0d2ddf676b23324b199f9facffb5c3a1620
+
+PODFILE CHECKSUM: 97b50fcfc72ca3f219e939fc337f7651dd2ee287
+
+COCOAPODS: 1.11.2
